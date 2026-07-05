@@ -1,0 +1,32 @@
+# STM32CubeIDE / Eclipse build outputs
+Debug/
+Release/
+bin/
+obj/
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.o
+*.d
+*.su
+*.axf
+
+# Local IDE configuration
+.settings/
+
+# MATLAB / Octave auto-saves
+*.asv
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Eclipse workspace metadata
+.metadata/
